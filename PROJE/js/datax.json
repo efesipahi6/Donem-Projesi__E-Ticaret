@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "ÜRÜN 1-1",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "img/ürünler/product1/1.png",
+            "thumbs": [
+                "img/ürünler/product1/1.png",
+                "img/ürünler/product1/2.png",
+                "img/ürünler/product1/3.png"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "ÜRÜN 2-2",
+        "price": {
+            "oldPrice": 208.00,
+            "newPrice": 165.00
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "img/ürünler/product2/1.png",
+            "thumbs": [
+                "img/ürünler/product2/1.png",
+                "img/ürünler/product2/2.png",
+                "img/ürünler/product2/3.png"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "ÜRÜN 3-3",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 38.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "img/ürünler/product3/1.png",
+            "thumbs": [
+                "img/ürünler/product3/1.png",
+                "img/ürünler/product3/2.png",
+                "img/ürünler/product3/3.png"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "ÜRÜN 4-4",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/ürünler/product4/1.png",
+            "thumbs": [
+                "img/ürünler/product4/1.png",
+                "img/ürünler/product4/2.png",
+                "img/ürünler/product4/3.png"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "ÜRÜN 5-5",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/ürünler/product5/1.png",
+            "thumbs": [
+                "img/ürünler/product5/1.png",
+                "img/ürünler/product5/2.png",
+                "img/ürünler/product5/3.png"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "ÜRÜN 6-6",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/ürünler/product5/1.png",
+            "thumbs": [
+                "img/ürünler/product5/1.png",
+                "img/ürünler/product5/2.png",
+                "img/ürünler/product5/3.png"
+            ]
+        }
+    }
+]

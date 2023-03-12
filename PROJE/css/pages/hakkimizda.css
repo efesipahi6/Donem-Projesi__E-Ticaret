@@ -1,0 +1,17 @@
+.hakkimizda{
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px 5px;
+    box-shadow: 0 4px 8px 0 #4a8efa;
+}
+
+.hakkimizda-title{
+    padding: 20px 4px;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.hakkimizda-desc{
+    padding: 20px;
+}

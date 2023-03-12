@@ -1,0 +1,21 @@
+
+
+.profil-karti {
+  margin-top: 70px;
+  margin-left: translate(-50%);
+  box-shadow: 0 4px 8px 0 #4a8efa;
+  max-width: 340px;
+  text-align: center;
+  padding: 20px 0px;
+  justify-content: center;
+}
+
+.btn{
+display:inline-block;
+margin-top: 50px;
+}
+
+h3{
+  font-weight: 500;
+  line-height: 40px;
+}

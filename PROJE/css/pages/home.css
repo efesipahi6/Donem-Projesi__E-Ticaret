@@ -1,0 +1,111 @@
+.section-title{
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.section-title h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+
+
+/* KATEGORİLER BAŞLANGIÇ */
+.categories{
+margin: 40px 0;
+}
+
+.categories .category-list{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+/* KATEGORİLER BİTİŞ */
+
+
+/* MARKA BAŞLANGIÇ */
+.brands{
+    margin: 60px 0;
+
+}
+
+.brand-list{
+    display: flex;
+    justify-content: center;
+    border: 1px solid #dee0ea;
+    padding: 20px 0;
+}
+
+.brand-list .brand-item{
+    opacity: 0.4;
+    transition: 0.3s ease opacity;
+}
+
+.brand-list .brand-item:hover{
+    opacity: 1;
+}
+
+
+/* ÜRÜNLER BAŞLANGIÇ */
+
+.products{
+    margin-bottom: 40px;
+}
+
+.products .product-list{
+    display: flex;
+    gap: 15px;
+    flex-wrap:wrap;
+}
+
+/* ÜRÜNLER BİTİŞ */
+
+
+/* POLİTİKA BAŞLANGIÇ */
+
+.policy{
+    border: 1px solid #dee0ea;
+    margin-top: 120px;
+}
+
+.policy .policy-list{
+    display: flex;
+    padding: 25px 0;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.policy .policy-list .policy-item{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.policy .policy-item i{
+    display: flex;
+    font-size: 50px;
+}
+
+.policy .policy-item .policy-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.policy .policy-item .policy-text strong{
+    font-weight: 600;
+}
+
+.policy .policy-item .policy-text span{
+    font-size: 12px;
+}
+
+
+/* POLİTİKA BİTİŞ */
+
+@media(max-width: 768px){
+    .policy .policy-list{
+        flex-direction: column;
+    }
+}

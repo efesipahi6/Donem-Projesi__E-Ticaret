@@ -1,0 +1,1 @@
+Proje incelenmeden önce RAPOR isimli dosyaya göz atılmasını öneriyoruz.

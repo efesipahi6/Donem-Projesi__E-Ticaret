@@ -1,0 +1,26 @@
+/* GENEL ALAN */
+@import url(base.css);
+
+/* LAYOUT */
+@import url(layout/header.css);
+@import url(layout/footer.css);
+
+/* COMPONENT */
+@import url(components/modal-search.css);
+@import url(components/slider.css);
+@import url(components/category-item.css);
+@import url(components/product-item.css);
+@import url(components/urun-inceleme/dosya-yolu.css);
+@import url(components/urun-inceleme/urun-galeri.css);
+@import url(components/urun-inceleme/urun-bilgi.css);
+@import url(components/urun-inceleme/detay.css);
+
+
+/* PAGES */
+@import url(pages/home.css);
+@import url(pages/iletisim.css );
+@import url(pages/login.css );
+@import url(pages/sepet.css );
+@import url(pages/urun-inceleme.css);
+@import url(pages/profile.css);
+@import url(pages/hakkimizda.css);
